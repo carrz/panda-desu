@@ -1,0 +1,153 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-color: #F98B5B;
+    color: #FFF;
+}
+.gray-filter{ 
+  filter: grayscale(100%); 
+}
+/*Header--------------------------------------------------------------------*/
+header{
+  height: 15em;
+}
+.main-title{
+  font-size: 3.5em;
+  margin-top: 1.2em;
+  margin-right: 0.7em;
+  text-align: right;
+}
+.header-subtitle{
+  font-size: 1.2em;
+  margin-top: 1em;
+  margin-right: 2.05em;
+  text-align: right;
+}
+/*Section: One panda---------------------------------------------------------*/
+
+.first-panda{
+  height: 28rem;
+}
+.col-one-panda{
+  padding: 0;
+  max-width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+}
+.one-panda{
+  width: 100%;
+  margin-top: -160px;
+  margin-bottom: -160px;
+  display: block;
+  max-width: none !important;
+}
+
+/*Section: About--------------------------------------------------------------*/
+
+.about{
+  height: 34em;
+  background-color: #9BF386;
+  border-top: 1.5em solid #F98B5B;
+  border-bottom: 1.5em solid #F98B5B;
+}
+.outside-frame{
+  height: 24em;
+  width: 39.5em;
+  background-color: #F98B5B;
+  margin-top: 3.5em;
+  margin-left: 20.75em;
+}
+.title-about{
+  font-size: 1.55em;
+  text-align: center;
+  font-weight: 700;
+  margin-top: 1.5em;
+}
+.text-about{
+  font-size: 1.24em;
+  font-weight: 300;
+  text-align: center;
+  line-height: 22px;
+  padding: 0.8em;
+}
+/*Section: Two Pandas----------------------------------------------------*/
+
+.second-panda{
+  height: 41.5rem;
+}
+.col-two-pandas{
+  padding: 0;
+  max-width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+}
+.two-pandas{
+  width: 100%;
+  margin-bottom: -155px;
+  display: block;
+  max-width: none !important;
+}
+/*Section: Pictures-----------------------------------------------------*/
+
+.pictures{
+  height: 34em;
+  background-color: #9BF386;
+  border-top: 1.5em solid #F98B5B;
+  border-bottom: 1.5em solid #F98B5B;
+}
+.title-pictures{
+  font-size: 3.5em;
+  text-align: center;
+  margin-top: 1.4em;
+}
+.pic1{
+  border: 10px solid #FFF;
+  height: 170px;
+  display: inline-block;
+  float: left;
+  margin-right: 3em;
+  margin-left: 15em;
+  margin-top: 3em;
+}
+.pic2, .pic3, .pic4{
+  border: 10px solid #FFF;
+  height: 170px;
+  display: inline-block;
+  float: left;
+  margin-right: 3em;
+  margin-top: 3em;
+}
+/*Section: Last Panda-------------------------------------------------*/
+
+.third-panda{
+  height: 41.5rem;
+}
+.col-last-panda{
+  padding: 0;
+  max-width: 100%;
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 0;
+  position: relative;
+}
+.three-panda{
+  width: 100%;
+  margin-bottom: -70px;
+  display: block;
+  max-width: none !important;
+}
+/*Footer-------------------------------------------------------------*/
+
+footer{
+  height: 3.5em;
+}
+.footer-text{
+  font-size: 1.2em;
+  text-align: right;
+  margin-top: 0.6em;
+  margin-right: 0.5em;
+}
